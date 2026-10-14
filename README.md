@@ -1,6 +1,6 @@
 # Flicker Backend
 
-REST API for **Flicker**, a small movie/series streaming platform. Built with Spring Boot and MySQL, it powers both the public site (browse, search, watch, comment) and the admin dashboard (manage titles and accounts). Posters and video files live on Cloudinary; this API stores only their URLs.
+REST API for **Flicker**, a small anime streaming platform. Built with Spring Boot and MySQL, it powers both the public site (browse, search, watch, comment) and the admin dashboard (manage titles and accounts). Posters and video files live on Cloudinary; this API stores only their URLs.
 
 ## Tech Stack
 
