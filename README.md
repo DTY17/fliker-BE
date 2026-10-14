@@ -10,17 +10,6 @@ REST API for **Flicker**, a small movie/series streaming platform. Built with Sp
 - Lombok + SLF4J logging
 - Maven
 
-## Project Structure
-
-```
-com.api.movie
-├── controller   # REST controllers: UserController, MovieController, CommentController
-├── service      # Business logic: UserService, MovieService, CommentService
-├── entity       # JPA entities: User, Movie, Comment
-├── dto          # Request DTOs, e.g. LoginRequestDto
-└── repository   # Spring Data JPA repositories
-```
-
 ## Getting Started
 
 ### Prerequisites
